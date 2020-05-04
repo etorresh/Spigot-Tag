@@ -1,0 +1,10 @@
+name: TagMinigame
+version: 1.0
+author: Etorresh
+website: etorresh.me
+main: me.etorresh.tagminigame.Tag
+api-version: 1.15
+commands:
+  tag:
+    description: Tag commands.
+    usage: /<command>
